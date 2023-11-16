@@ -349,16 +349,6 @@ textarea:focus {
     }
 }
 
-/* .titulo {
-    font-size: 1.5rem;
-    font-weight: 600;
-    text-align: center;
-    margin-bottom: 2rem;
-    background-color: #0cae98;
-    border-radius: 8px;
-    color: #fff;
-  } */
-
   .conteudo {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(220px, auto));
@@ -410,19 +400,6 @@ textarea:focus {
   .box-button{
     position: relative;
   }
-
-  /* .btn2 {
-    font-size: 1.2rem;
-    font-weight: 550;
-    text-decoration: uppercase;
-    margin-bottom: 0.5rem;
-    border-radius: 8px;
-    size: 15px;
-    padding: 10px;
-    background-color: #0cae98;
-    position: center;
-    cursor: pointer;
-  } */
 
   .container {
     padding: 20px 8%;
