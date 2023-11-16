@@ -50,7 +50,6 @@ a {
 }
 
 .button--secondary {
-    
     color: var(--blue);
     padding: .8em 3.2em;
     border: 1px solid var(--blue);
