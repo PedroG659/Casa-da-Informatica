@@ -99,7 +99,7 @@ textarea:focus {
 }
 
 .input__field--label {
-    font-size: 12px;
+    font-size: 16px;
     background-color: #1E2021;
     color: var(--grey);
     padding: 1em 1em .3em;
@@ -142,7 +142,7 @@ textarea:focus {
     padding: 1em;
     width: 40%;
     font-family: var(--main-font);
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 400;
     color: var(--white);
 }
