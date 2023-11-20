@@ -80,15 +80,7 @@ textarea:focus {
 
 .input__text::placeholder,
 .input__textfield::placeholder {
-    color: var(--grey);
-}
-
-.input__validation-message {
-    color: var(--red);
-    font-size: 12px;
-    align-self: flex-start;
-    display:inline-block;
-    margin-top: .4em;
+    color: var(--white);
 }
 
 .input__wrapper {
@@ -100,7 +92,7 @@ textarea:focus {
 .input__field--label {
     font-size: 16px;
     background-color: #1E2021;
-    color: var(--grey);
+    color: var(--white);
     padding: 1em 1em .3em;
     border-radius: 5px 5px 0 0;
 }
@@ -148,7 +140,7 @@ textarea:focus {
 
 .header__searchbox::placeholder {
     background: url('img/search-placeholder.png') no-repeat right / 22px;
-    color: var(--grey);
+    color: var(--white);
 }
 
 .banner {
